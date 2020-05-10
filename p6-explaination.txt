@@ -1,0 +1,11 @@
+#union
+created a new list and append both values of linked list for union and then made a set of it.
+and then returned this list of set of node values.
+time complexity :- O(n)
+
+#intersection
+to get intersection, i created new list to get the values from the list of values of nodes of one linked list.
+if both element are common then appended it and returned it
+time complexity :- O(n)
+
+I don't use deque as i only used append in this method.

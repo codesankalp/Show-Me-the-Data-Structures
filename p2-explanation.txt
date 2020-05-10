@@ -1,0 +1,4 @@
+I used recursion to solve this problem.
+Every time in recursion i passed the same suffix of file and changed directories.
+n = number of directory
+time complexity = O(depth * n)    reason :- recursion

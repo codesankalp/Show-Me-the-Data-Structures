@@ -1,0 +1,8 @@
+I followed the method given in the udacity and builded a tree using frequency of characters in data.
+from the tree , if some character is repeating then I concatenate "1" with that and updated the value.
+after this i get the different code for different character and I returned the encoded message.
+worst time complexity for encoding is O(nlogn)
+
+
+I reverse this step to get the decode message
+worst time complexity for decoding is O(nlogn)

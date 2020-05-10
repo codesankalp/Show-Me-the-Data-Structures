@@ -1,0 +1,2 @@
+used recursion to search a user in group.
+time complexity = O(depth * number of groups)

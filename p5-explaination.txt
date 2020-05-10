@@ -1,0 +1,2 @@
+I simply passed the previous hash as a new argument of previous block
+time complexity :- O(1)
